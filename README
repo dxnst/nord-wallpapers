@@ -4,6 +4,6 @@ A collection of wallpapers that match the nordtheme palette.
 Most of the wallpapers in this repository were downloaded from reddit/4chan or modified to match the colorscheme.
 
 Please clone this repo using the following command to skip having to download unnecessary git stuff:
-	git clone --depth 1 https://github.com/pachedearroz/nord-wallpapers
+	git clone --depth 1 https://github.com/tamaldearroz/nord-wallpapers
 
 Shoutout to this project: https://github.com/Schrodinger-Hat/ImageGoNord a tool to convert RGB images to nordtheme palette.
